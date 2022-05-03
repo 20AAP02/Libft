@@ -2,7 +2,7 @@
 
 <h4>Create libray</h4>
 
-<p>Command to put to build libft.a file</p>
+<p>Command to build libft.a file</p>
 
 ```
 make -f libft/Makefile -s
