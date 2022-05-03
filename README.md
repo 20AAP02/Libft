@@ -22,9 +22,6 @@ make -f libft/Makefile -s
     <td>ft_isalpha</td>
     <td>ft_isascii</td>
     <td>ft_isdigit</td>
-    <td>ft_isprint</td>
-    <td>ft_itoa</td>
-    <td>ft_lstadd_back</td>
   </tr>
   <tr>
     <td>ft_lstadd_front</td>
@@ -70,6 +67,11 @@ make -f libft/Makefile -s
     <td>ft_split</td>
     <td>ft_lstsize</td>
     <td>ft_memchr</td>
+  </tr>
+  <tr>
+    <td>ft_isprint</td>
+    <td>ft_itoa</td>
+    <td>ft_lstadd_back</td>
     <td>ft_memcmp</td>
   </tr>
 </table>
