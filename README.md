@@ -16,7 +16,7 @@ make -f libft/Makefile -s
 
 <table>
   <tr>
-    <td>ft_atoi</td>
+    <td>[ft_atoi](https://github.com/20AAP02/Libft/blob/main/42_libft/ft_atoi.c)</td>
     <td>ft_bzero</td>
     <td>ft_calloc</td>
     <td>ft_isalnum</td>
