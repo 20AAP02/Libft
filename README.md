@@ -3,11 +3,12 @@
 <h4>Create libray</h4>
 
 <p>Command to put to build libft.a file</p>
-<i>Must be outside of libft directory</i>
 
 ```
 make -f libft/Makefile -s
 ```
+
+<i>Must be outside of libft directory</i>
 
 ----
 
@@ -73,5 +74,6 @@ make -f libft/Makefile -s
     <td>ft_itoa</td>
     <td>ft_lstadd_back</td>
     <td>ft_memcmp</td>
+    <td>ft_printf</td>
   </tr>
 </table>
