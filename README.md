@@ -15,19 +15,19 @@ make -f libft/Makefile -s
 
 <table>
   <tr>
-    <td>`ft_atoi`</td>
-    <td>`ft_bzero`</td>
-    <td>`ft_calloc`</td>
-    <td>`ft_isalnum`</td>
-    <td>`ft_isalpha`</td>
-    <td>`ft_isascii`</td>
+    <td>ft_atoi</td>
+    <td>ft_bzero</td>
+    <td>ft_calloc</td>
+    <td>ft_isalnum</td>
+    <td>ft_isalpha</td>
+    <td>ft_isascii</td>
+    <td>ft_isdigit</td>
+    <td>ft_isprint</td>
+    <td>ft_itoa</td>
+    <td>ft_lstadd_back</td>
   </tr>
 </table>
 
-`ft_isdigit`
-`ft_isprint`
-`ft_itoa`
-`ft_lstadd_back`
 - `ft_lstadd_front`
 - `ft_lstclear`
 - `ft_lstdelone`
