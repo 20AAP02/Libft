@@ -34,9 +34,6 @@ make -f libft/Makefile -s
     <td>ft_lstlast</td>
     <td>ft_lstmap</td>
     <td>ft_lstnew</td>
-    <td>ft_lstsize</td>
-    <td>ft_memchr</td>
-    <td>ft_memcmp</td>
   </tr>
   <tr>
     <td>ft_memcpy</td>
@@ -46,9 +43,6 @@ make -f libft/Makefile -s
     <td>ft_putchar_fd</td>
     <td>ft_putendl_fd</td>
     <td>ft_putnbr_fd</td>
-    <td>ft_putstr_fd</td>
-    <td>ft_recursive_power</td>
-    <td>ft_split</td>
   </tr>
   <tr>
     <td>ft_strchr</td>
@@ -58,16 +52,24 @@ make -f libft/Makefile -s
     <td>ft_strlcat</td>
     <td>ft_strlcpy</td>
     <td>ft_strlen</td>
-    <td>ft_strmapi</td>
-    <td>ft_strncmp</td>
-    <td>ft_strnstr</td>
   </tr>
   <tr>
+    <td>ft_strnstr</td>
     <td>ft_strrchr</td>
     <td>ft_strtrim</td>
     <td>ft_substr</td>
     <td>ft_tolower</td>
     <td>ft_toupper</td>
     <td>get_next_line</td>
+  </tr>
+  <tr>
+    <td>ft_strmapi</td>
+    <td>ft_strncmp</td>
+    <td>ft_putstr_fd</td>
+    <td>ft_recursive_power</td>
+    <td>ft_split</td>
+    <td>ft_lstsize</td>
+    <td>ft_memchr</td>
+    <td>ft_memcmp</td>
   </tr>
 </table>
