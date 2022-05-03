@@ -13,7 +13,7 @@ make -f libft/Makefile -s
 
 <h5>Functions</h5>
 
-- [`ft_atoi`]
+- `ft_atoi`
 ft_bzero
 ft_calloc
 ft_isalnum
