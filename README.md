@@ -14,17 +14,18 @@ make -f libft/Makefile -s
 
 <h5>Functions</h5>
 
-<table>
-  <tr><td>
+<table><tr><td>
 
-      [ft_atoi](https://github.com/20AAP02/Libft/blob/main/42_libft/ft_atoi.c)
 
-    </td><td>ft_bzero</td>
-    <td>ft_calloc</td>
-    <td>ft_isalnum</td>
-    <td>ft_isalpha</td>
-    <td>ft_isascii</td>
-    <td>ft_isdigit</td>
+[ft_atoi](https://github.com/20AAP02/Libft/blob/main/42_libft/ft_atoi.c)
+
+
+</td><td>ft_bzero</td>
+<td>ft_calloc</td>
+<td>ft_isalnum</td>
+<td>ft_isalpha</td>
+<td>ft_isascii</td>
+<td>ft_isdigit</td>
   </tr>
   <tr>
     <td>ft_lstadd_front</td>
