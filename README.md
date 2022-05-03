@@ -12,7 +12,7 @@ make -f libft/Makefile -s
 
 ----
 
-<h5>Functions</h5>
+<h4>Functions included</h4>
 
 
 <table><tr><td>
