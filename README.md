@@ -87,7 +87,7 @@ make -f libft/Makefile -s
 
 </td><td>
 
-[ft_nbr_base](https://github.com/20AAP02/Libft/blob/main/42_libft/ft_nbr_base.c)
+[ft_hexstr_toint](https://github.com/20AAP02/Libft/blob/main/42_libft/ft_hexstr_toint.c)
 
 </td><td>
 
